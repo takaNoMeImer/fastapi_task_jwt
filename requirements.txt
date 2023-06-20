@@ -1,6 +1,6 @@
 fastapi
 pytest
-dotenv
+python-dotenv
 pydantic
 passlib
 psycopg2
