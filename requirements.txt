@@ -1,0 +1,8 @@
+fastapi
+pytest
+dotenv
+pydantic
+passlib
+psycopg2
+jwt
+redis
